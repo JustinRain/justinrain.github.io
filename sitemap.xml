@@ -1,0 +1,9 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://JustinRain.github.io/hello/</loc><lastmod>2022-07-12T03:21:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://JustinRain.github.io/posts/</loc><lastmod>2022-07-12T03:21:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://JustinRain.github.io/</loc><lastmod>2022-07-12T03:21:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://JustinRain.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://JustinRain.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
